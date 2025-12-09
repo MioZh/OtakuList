@@ -16,7 +16,6 @@ import coil.compose.AsyncImage
 import com.example.otakulist.model.Anime
 import androidx.compose.foundation.clickable
 
-// TODO: optimize grid spacing
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun AnimeListScreen(
